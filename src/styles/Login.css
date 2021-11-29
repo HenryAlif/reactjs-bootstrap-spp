@@ -1,0 +1,21 @@
+.con {
+    padding: 30px;
+}
+
+.form {
+    padding: 12px 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.text-register {
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+}
+
+.image {
+    width: 500px;
+    height: 550px;
+}
